@@ -1,6 +1,7 @@
 ### Heap-Problem-
 
-1.Implement a Maxheap /Minheap using arrays and recursion. 2.Sort an Array using heap. (Heap Sort) <br>
+1.Implement a Maxheap /Minheap using arrays and recursion. <br>
+2.Sort an Array using heap. (Heap Sort) <br>
 3.Maximum of all subarrays of size k. <br>
 4.“k” largest element in an array <br>
 5.Kth smallest and largest element in an unsorted array <br>
